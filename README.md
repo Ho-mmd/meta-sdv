@@ -1,6 +1,7 @@
 # meta-sdv
 
-This is the layer for **SDV** fit in OpenEmbedded/Yocto
+This is the layer for **SDV** fit in OpenEmbedded/Yocto. <br/>
+This repository is for the **Head Unit OS** part of the [Autonomous-Driving-System](https://github.com/SEA-ME-COSS/Autonomous-Driving-System) project.
 
 # Dependencies
 
